@@ -10,6 +10,8 @@ Comandos:
 ## download de repositorio remoto
 git clone <link do repositorio>
 
+git clone <https://github.com/Sentry06/backend_aula01.git>
+
 ## adicionando versionamento dos arquivos novos e envia para area de stage
 
 ## adicionar todos os arquivos para o git
@@ -30,6 +32,9 @@ git commit -m "remold javascript files"
 
 ## enviar para o repositório remoto
 git push origin main/branch
+
+git push -u origin main
+
 
 ## verificar momento do versionamento
 git status
