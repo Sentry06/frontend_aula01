@@ -7,6 +7,8 @@ git init .
 ## download de repositorio remoto
 git clone <link>
 
+git clone https://github.com/allanandradeprofessor/backend_aula01.git
+
 # Enviar codigos para repositorio remoto
 
 ## adicionando versionamento dos arquivos novos e envia para area de stage
