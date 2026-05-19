@@ -1,1 +1,0 @@
-funcao(console.log('hello world'))
